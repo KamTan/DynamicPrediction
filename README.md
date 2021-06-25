@@ -1,6 +1,6 @@
 # DynamicPrediction
 R Code to accompany the manuscript "Dynamic Survival Prediction Combining Landmarking with a Machine Learning Ensemble: Methodology and Empirical Comparison" by
-Kamaryn T. Tanner, Linda D. Sharples, Rhian M. Daniel and Ruth H. Keogh
+Kamaryn T. Tanner, Linda D. Sharples, Rhian M. Daniel and Ruth H. Keogh. (2021) Journal of the Royal Statistical Society Series A, 184 (1) p3-30. https://doi.org/10.1111/rssa.12611 
 
 For questions and comments regarding the code, please contact Kamaryn Tanner (kamaryn.tanner1@lshtm.ac.uk). As code is updated, it will be posted to https://github.com/KamTan/DynamicPrediction. 
 
